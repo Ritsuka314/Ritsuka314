@@ -17,19 +17,33 @@ Here are some ideas to get you started:
 
 ### [My website](https://ritsuka.moe)
 
-[![Ritsuka's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ritsuka314&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Ritsuka's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ritsuka314&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ritsuka314&count_private=true&show_icons=true&theme=github_dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ritsuka314&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ---
 
 ### ![Programming Languages Icon](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
-<img align="right" src="https://github-readme-stats-lostattractor.vercel.app/api/top-langs/?username=ritsuka314&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritsuka314&layout=compact">
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjRUQ4QjAwIj48dGl0bGU+SmF2YTwvdGl0bGU+PHBhdGggZD0iTTguODUxIDE4LjU2cy0uOTE3LjUzNC42NTMuNzE0YzEuOTAyLjIxOCAyLjg3NC4xODcgNC45NjktLjIxMSAwIDAgLjU1Mi4zNDYgMS4zMjEuNjQ2LTQuNjk5IDIuMDEzLTEwLjYzMy0uMTE4LTYuOTQzLTEuMTQ5TTguMjc2IDE1LjkzM3MtMS4wMjguNzYxLjU0Mi45MjRjMi4wMzIuMjA5IDMuNjM2LjIyNyA2LjQxMy0uMzA4IDAgMCAuMzg0LjM4OS45ODcuNjAyLTUuNjc5IDEuNjYxLTEyLjAwNy4xMy03Ljk0Mi0xLjIxOE0xMy4xMTYgMTEuNDc1YzEuMTU4IDEuMzMzLS4zMDQgMi41MzMtLjMwNCAyLjUzM3MyLjkzOS0xLjUxOCAxLjU4OS0zLjQxOGMtMS4yNjEtMS43NzItMi4yMjgtMi42NTIgMy4wMDctNS42ODggMC0uMDAxLTguMjE2IDIuMDUxLTQuMjkyIDYuNTczTTE5LjMzIDIwLjUwNHMuNjc5LjU1OS0uNzQ3Ljk5MWMtMi43MTIuODIyLTExLjI4OCAxLjA2OS0xMy42NjkuMDMzLS44NTYtLjM3My43NS0uODkgMS4yNTQtLjk5OC41MjctLjExNC44MjgtLjA5My44MjgtLjA5My0uOTUzLS42NzEtNi4xNTYgMS4zMTctMi42NDMgMS44ODcgOS41OCAxLjU1MyAxNy40NjItLjcgMTQuOTc3LTEuODJNOS4yOTIgMTMuMjFzLTQuMzYyIDEuMDM2LTEuNTQ0IDEuNDEyYzEuMTg5LjE1OSAzLjU2MS4xMjMgNS43Ny0uMDYyIDEuODA2LS4xNTIgMy42MTgtLjQ3NyAzLjYxOC0uNDc3cy0uNjM3LjI3Mi0xLjA5OC41ODdjLTQuNDI5IDEuMTY1LTEyLjk4Ni42MjMtMTAuNTIyLS41NjggMi4wODItMS4wMDYgMy43NzYtLjg5MiAzLjc3Ni0uODkyTTE3LjExNiAxNy41ODRjNC41MDMtMi4zNCAyLjQyMS00LjU4OS45NjgtNC4yODUtLjM1NS4wNzQtLjUxNS4xMzgtLjUxNS4xMzhzLjEzMi0uMjA3LjM4NS0uMjk3YzIuODc1LTEuMDExIDUuMDg2IDIuOTgxLS45MjggNC41NjIgMC0uMDAxLjA3LS4wNjIuMDktLjExOE0xNC40MDEgMHMyLjQ5NCAyLjQ5NC0yLjM2NSA2LjMzYy0zLjg5NiAzLjA3Ny0uODg4IDQuODMyLS4wMDEgNi44MzYtMi4yNzQtMi4wNTMtMy45NDMtMy44NTgtMi44MjQtNS41MzkgMS42NDQtMi40NjkgNi4xOTctMy42NjUgNS4xOS03LjYyN005LjczNCAyMy45MjRjNC4zMjIuMjc3IDEwLjk1OS0uMTUzIDExLjExNi0yLjE5OCAwIDAtLjMwMi43NzUtMy41NzIgMS4zOTEtMy42ODguNjk0LTguMjM5LjYxMy0xMC45MzcuMTY4IDAtLjAwMS41NTMuNDU3IDMuMzkzLjYzOSIvPjwvc3ZnPg==&label= "Java")
 ![Scala](https://img.shields.io/static/v1?style=for-the-badge&message=Scala&color=eeeeee&logo=scala&logoColor=DE3423&label= "Scala")
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=eeeeee&logo=python&label= "Python")
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=eeeeee&logo=JavaScript&logoColor=f7d138&label= "JavaScript")
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=eeeeee&logo=TypeScript&logoColor=3178C6&label= "TypeScript")
+
+<br />
+
+![Isabelle/HOL](https://img.shields.io/static/v1?style=for-the-badge&message=Isabelle/HOL&color=eeeeee&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAvtJREFUOE91k39I03kYx1/f6VeUua02zW2VihWnWc5oU4uKKDsh+qsfXMso6iArqT/6IyiCgqxzFgcXpVH2R6Rdd0oZUTuYI+6iK8l0y6UXWfbDaunaVpOt1PaJdqSI9vz5PM/n9fx6fyQmsNbWVqFUKnG5XFitVmminG++ccFQKCQqK20EAwEWLV6EKS+f2bk534WMC/j9flFTcxqNRs2MLD2Z4fW4I8uZmXMEs9k8Ln+c41xtrQiHI1gsBYhoOWaLO9at82w83UNr0RvyKFm5HZVKFXs7ArDb7aKtrZ3Xr16xZesWBkIR5ij3o52th8dObv85wPStUaZmSPzVlIUhqz7W0Qjg6+IcDgfm+WbU6snU1TWwMvsYadoo+ci0dybwyJjEus1+FM3xXB04z+pS6/+Ar3NXVVVhMpliS3v48CWyLKPs30AgGEQTSuB9jwpjfy7exFus/mmI30MnKS0rkyT7DbtodjpJTU2lvHwnjQ1XmZm5kClGNaerD7K9rJY0Q5TL1Wkk1yUSr33Cio1x2M7OxbxxE1JlpU3kZGezYOECAoH3HK04zoyMAlJ0U1FIv7Jt9xM+D78g7oFEjTWVFJ0Xv3oahUn5dHo6kbq6uoSIglqj4Z+/2/D53qKMn0Xv6x7Sk/expsRAcoKMaLnLgaNZsYusKV7BcEMD3ZN1o1e4WN8o8uYuBsU7jtl+Y+26TQz1biZzUjfzdBDtldhV/QPaaBK5CYlk3GvhuaVwFFB75qIQn4xotDJe338sL16F504NeZMqyFYNc6VehyGyDJejGZ3FgsLTgemGfSzgnTeOj58+Eo4EKSwqwNPZge2XvVQskclJKUbrdtPe8wyT8yYqhURuUcGoDtruu0TjpWZStLPo63+Oz9fHG+8HHDftXCrSM4gg/V4r7sQkdgQDI/oZI+VwOCKarlzn9q0W0o1m/m1x8Zk3LNXLZPR0o3Y/QHPiFEWl6ycGfPuig4ODov7CH3g6nnLo8J6Y7q83XRNyXx8/bvt5TNEvwEwlUJB/8CIAAAAASUVORK5CYII=&label= "Isabelle/HOL")
+![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=eeeeee&logo=latex&logoColor=008080&label= "LaTeX")
 
 ### ![IDEs / Editors Icon](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "IDEs / Editors") IDEs / Editors
 
