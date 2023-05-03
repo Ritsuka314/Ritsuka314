@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### [My website](https://ritsuka.moe)
 
-![](https://github-readme-stats-lostattractor.vercel.app/api?username=ritsuka314&count_private=true&show_icons=true")
+[![Ritsuka's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ritsuka314&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Ritsuka's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ritsuka314&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ---
 
