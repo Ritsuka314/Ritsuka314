@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## 哈喽， 这里是立夏哟 ~☆
 
+![HRT](https://hrt-days.ritsuka314.workers.dev)
+
 ### [My website](https://ritsuka.moe)
 
 <picture>
