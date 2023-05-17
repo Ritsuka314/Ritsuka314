@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   srcset="https://github-readme-stats-ritsuka.vercel.app/api?username=ritsuka314&count_private=true&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-ritsuka.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats-ritsuka.vercel.app/api?username=ritsuka314&show_icons=true" />
 </picture>
 
 ---
