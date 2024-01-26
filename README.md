@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## 哈喽， 这里是立夏哟 ~☆
 
+[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/ritsuka314/pubkey)
+
 <!--![HRT](https://hrt-days.ritsuka314.workers.dev)-->
 
 ### [My website](https://ritsuka.moe)
