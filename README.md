@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### ![Programming Languages Icon](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
 
-[![Ritsuka's top langs-Dark](https://github-readme-stats-ritsuka.vercel.app/api/top-langs/?username=ritsuka314&layout=compact&card_width=400&langs_count=10&size_weight=0.6&hide=html,css,PostScript&custom_title=Most%20Used%20Languages%20(size_weight%3D0.6)&theme=github_dark#gh-dark-mode-only)](https://github.com/Ritsuka314#gh-dark-mode-only)
+[![Ritsuka's top langs-Dark](https://github-readme-stats-ritsuka.vercel.app/api/top-langs/?username=ritsuka314&layout=compact&card_width=400&langs_count=10&size_weight=0.6&hide=html,css,PostScript&custom_title=Most%20Used%20Languages%20(by%20time,%20size_weight%3D0.6)&theme=github_dark#gh-dark-mode-only)](https://github.com/Ritsuka314#gh-dark-mode-only)
 [![Ritsuka's top langs-Light](https://github-readme-stats-ritsuka.vercel.app/api/top-langs/?username=ritsuka314&layout=compact&card_width=400&langs_count=10&size_weight=0.6&hide=html,css,PostScript&custom_title=Most%20Used%20Languages%20(size_weight%3D0.6)#gh-light-mode-only)](https://github.com/Ritsuka314#gh-light-mode-only)
 
 [![Ritsuka's Wakatime-Dark](https://github-readme-stats-ritsuka.vercel.app/api/wakatime?username=Ritsuka&layout=compact&langs_count=10&theme=github_dark#gh-dark-mode-only)](https://github.com/Ritsuka314#gh-dark-mode-only)
